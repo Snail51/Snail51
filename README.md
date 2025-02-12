@@ -4,7 +4,7 @@ Constantly tinkering, automating, processing. Experience as Sysadmin, Web Develo
 The best task is an automated one, I will find a way to optimise everything!
 
 - 💼  Recently graduated from [UMD](https://www.d.umn.edu/), looking for work
-- 🌳  Proud creator of the [Rapid Tree Notetaker](https://rtn.snailien.net)
+- 🌳  Proud creator of the [Rapid Tree Notetaker](https://github.com/Snail51/Rapid-Tree-Note)
 - 👌  Primarily use `JavaScript`, `PHP`, `Shell` and `Python`
 - 🧰  Most familiar & comfortable with `Linux` environments for development, but have been a Windows user all my life
 - 🔐  Student & Teacher of Cybersecurity
