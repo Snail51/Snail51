@@ -1,6 +1,7 @@
 ## I am Brendan! 👋
 
 Constantly tinkering, automating, processing. Experience as Sysadmin, Web Developer, and Data Analyst.
+
 The best task is an automated one, I will find a way to optimise everything!
 
 - 💼  Recently graduated from [UMD](https://www.d.umn.edu/), looking for work
@@ -10,4 +11,4 @@ The best task is an automated one, I will find a way to optimise everything!
 - 🔐  Student & Teacher of Cybersecurity
 - 📫  Reach out to me: [brendanrood42@gmail.com](mailto:brendanrood42@gmail.com), [linkedin.com/in/brendan-rood/](https://www.linkedin.com/in/brendan-rood/)
 
-Looking for commit history? A lot of what I've done has been on [my school's GitHub](https://github.com/BrendanR-51).
+Looking for commit history? A lot of what I've done was on [my university's GitHub](https://github.com/BrendanR-51).
